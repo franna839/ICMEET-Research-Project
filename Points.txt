@@ -1,3 +1,5 @@
+Paper should not be less than 12 pages (With regular registration fees)
+
 Submission Guidelines: https://icmeet.co.uk/submission-guidelines
 
 Submit to Microsoft CMT: https://cmt3.research.microsoft.com/ICMEET2025/Submission/Index
@@ -10,4 +12,15 @@ https://www.youtube.com/watch?v=_NW75eygKE4
 
 Springer AI Ethics:
 https://www.springer.com/gp/editorial-policies/artificial-intelligence--ai-/25428500?srsltid=AfmBOoqXq4cH7aWT-g9PuMUprqDSUw2yEedJjjGKfR6EmxdQlVh7QPTF
+
+
+Papers in the (7th Edition)Advances in Micro-Electronics, Embedded Systems and IoT textbook worth giving a read for ideas:
+Transportation in IoT-SDN Using Vertical Handoff Scheme - 1
+
+IOT-Based Water Level Management System - 357
+
+The Energy Efficient-Based Enhanced Clustering Technique Using IOT-Based Heterogeneous Wireless Sensor Networks - 377 
+
+IoT-Based Smart System for Fire Detection in Forests - 389 
+
 
